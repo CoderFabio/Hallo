@@ -1,8 +1,9 @@
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello Herr Schwaiger!\n";
+    cout << "Hello Herr Schwaiger!\n";
 }
 
